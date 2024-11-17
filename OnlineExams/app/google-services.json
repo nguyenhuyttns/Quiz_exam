@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715088153444",
+    "project_id": "exams-online-8b504",
+    "storage_bucket": "exams-online-8b504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715088153444:android:53ca6a081f3cd11bca8871",
+        "android_client_info": {
+          "package_name": "com.bob.onlineexams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjW8YzKrntFRAkuZD_fVK0H1679eCG0_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
